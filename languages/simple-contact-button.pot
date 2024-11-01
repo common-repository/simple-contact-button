@@ -1,0 +1,880 @@
+# Copyright (C) 2024 BB Seo Ventures
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Contact Button 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-contact-button\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-28T16:39:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: simple-contact-button\n"
+
+#. Plugin Name of the plugin
+#: simple-contact-button.php
+#: simple-contact-button.php:52
+#: simple-contact-button.php:53
+msgid "Simple Contact Button"
+msgstr ""
+
+#. Description of the plugin
+#: simple-contact-button.php
+msgid "Easily add a straightforward contact button to your WordPress site. Enable visitors to reach you instantly with a single click. Customize the button's position, icon, and message for a seamless communication experience."
+msgstr ""
+
+#. Author of the plugin
+#: simple-contact-button.php
+msgid "BB Seo Ventures"
+msgstr ""
+
+#: simple-contact-button.php:70
+msgid "Settings Saved"
+msgstr ""
+
+#: simple-contact-button.php:88
+msgid "Button Activation"
+msgstr ""
+
+#: simple-contact-button.php:91
+msgid "Sitewide"
+msgstr ""
+
+#: simple-contact-button.php:92
+msgid "Specific Pages"
+msgstr ""
+
+#: simple-contact-button.php:93
+msgid "Homepage Only"
+msgstr ""
+
+#: simple-contact-button.php:98
+msgid "Select Post Type"
+msgstr ""
+
+#: simple-contact-button.php:101
+msgid "Select"
+msgstr ""
+
+#: simple-contact-button.php:102
+msgid "Post"
+msgstr ""
+
+#: simple-contact-button.php:103
+msgid "Page"
+msgstr ""
+
+#: simple-contact-button.php:108
+msgid "Select Specific Page/Post"
+msgstr ""
+
+#: simple-contact-button.php:113
+msgid "Loading..."
+msgstr ""
+
+#: simple-contact-button.php:119
+msgid "Delete all plugin data upon uninstallation"
+msgstr ""
+
+#: simple-contact-button.php:130
+msgid "If you love our plugin, please consider supporting us by clicking the Donate button below."
+msgstr ""
+
+#: simple-contact-button.php:132
+msgid "Donate"
+msgstr ""
+
+#: simple-contact-button.php:190
+msgid "Settings"
+msgstr ""
+
+#: simple-contact-button.php:197
+msgid "Enter Contact Phone Number"
+msgstr ""
+
+#: simple-contact-button.php:205
+msgid "Set Initial Contact Message"
+msgstr ""
+
+#: simple-contact-button.php:213
+msgid "Select Icon Position"
+msgstr ""
+
+#: simple-contact-button.php:221
+msgid "Choose Device Visibility"
+msgstr ""
+
+#: simple-contact-button.php:229
+msgid "Pick an Icon"
+msgstr ""
+
+#: simple-contact-button.php:257
+msgid "Configure your contact button by entering your phone number, setting an initial message, choosing the icon position and visibility, and selecting your preferred icon design."
+msgstr ""
+
+#: simple-contact-button.php:266
+msgid "Turkey (+90)"
+msgstr ""
+
+#: simple-contact-button.php:267
+msgid "United Kingdom (+44)"
+msgstr ""
+
+#: simple-contact-button.php:268
+msgid "United States (+1)"
+msgstr ""
+
+#: simple-contact-button.php:269
+msgid "Germany (+49)"
+msgstr ""
+
+#: simple-contact-button.php:270
+msgid "France (+33)"
+msgstr ""
+
+#: simple-contact-button.php:271
+msgid "Italy (+39)"
+msgstr ""
+
+#: simple-contact-button.php:272
+msgid "Spain (+34)"
+msgstr ""
+
+#: simple-contact-button.php:273
+msgid "Russia (+7)"
+msgstr ""
+
+#: simple-contact-button.php:274
+msgid "Japan (+81)"
+msgstr ""
+
+#: simple-contact-button.php:275
+msgid "China (+86)"
+msgstr ""
+
+#: simple-contact-button.php:276
+msgid "India (+91)"
+msgstr ""
+
+#: simple-contact-button.php:277
+msgid "Australia (+61)"
+msgstr ""
+
+#: simple-contact-button.php:278
+msgid "Brazil (+55)"
+msgstr ""
+
+#: simple-contact-button.php:279
+msgid "Mexico (+52)"
+msgstr ""
+
+#: simple-contact-button.php:280
+msgid "Canada (+1)"
+msgstr ""
+
+#: simple-contact-button.php:281
+msgid "Netherlands (+31)"
+msgstr ""
+
+#: simple-contact-button.php:282
+msgid "South Africa (+27)"
+msgstr ""
+
+#: simple-contact-button.php:283
+msgid "Sweden (+46)"
+msgstr ""
+
+#: simple-contact-button.php:284
+msgid "South Korea (+82)"
+msgstr ""
+
+#: simple-contact-button.php:285
+msgid "Singapore (+65)"
+msgstr ""
+
+#: simple-contact-button.php:286
+msgid "Indonesia (+62)"
+msgstr ""
+
+#: simple-contact-button.php:287
+msgid "Malaysia (+60)"
+msgstr ""
+
+#: simple-contact-button.php:288
+msgid "New Zealand (+64)"
+msgstr ""
+
+#: simple-contact-button.php:289
+msgid "Thailand (+66)"
+msgstr ""
+
+#: simple-contact-button.php:290
+msgid "United Arab Emirates (+971)"
+msgstr ""
+
+#: simple-contact-button.php:291
+msgid "Egypt (+20)"
+msgstr ""
+
+#: simple-contact-button.php:292
+msgid "Morocco (+212)"
+msgstr ""
+
+#: simple-contact-button.php:293
+msgid "Nigeria (+234)"
+msgstr ""
+
+#: simple-contact-button.php:294
+msgid "Finland (+358)"
+msgstr ""
+
+#: simple-contact-button.php:295
+msgid "Afghanistan (+93)"
+msgstr ""
+
+#: simple-contact-button.php:296
+msgid "Albania (+355)"
+msgstr ""
+
+#: simple-contact-button.php:297
+msgid "Algeria (+213)"
+msgstr ""
+
+#: simple-contact-button.php:298
+msgid "Andorra (+376)"
+msgstr ""
+
+#: simple-contact-button.php:299
+msgid "Angola (+244)"
+msgstr ""
+
+#: simple-contact-button.php:300
+msgid "Argentina (+54)"
+msgstr ""
+
+#: simple-contact-button.php:301
+msgid "Armenia (+374)"
+msgstr ""
+
+#: simple-contact-button.php:302
+msgid "Austria (+43)"
+msgstr ""
+
+#: simple-contact-button.php:303
+msgid "Azerbaijan (+994)"
+msgstr ""
+
+#: simple-contact-button.php:304
+msgid "Bahrain (+973)"
+msgstr ""
+
+#: simple-contact-button.php:305
+msgid "Bangladesh (+880)"
+msgstr ""
+
+#: simple-contact-button.php:306
+msgid "Belarus (+375)"
+msgstr ""
+
+#: simple-contact-button.php:307
+msgid "Belgium (+32)"
+msgstr ""
+
+#: simple-contact-button.php:308
+msgid "Belize (+501)"
+msgstr ""
+
+#: simple-contact-button.php:309
+msgid "Benin (+229)"
+msgstr ""
+
+#: simple-contact-button.php:310
+msgid "Bhutan (+975)"
+msgstr ""
+
+#: simple-contact-button.php:311
+msgid "Bolivia (+591)"
+msgstr ""
+
+#: simple-contact-button.php:312
+msgid "Bosnia and Herzegovina (+387)"
+msgstr ""
+
+#: simple-contact-button.php:313
+msgid "Botswana (+267)"
+msgstr ""
+
+#: simple-contact-button.php:314
+msgid "Brunei (+673)"
+msgstr ""
+
+#: simple-contact-button.php:315
+msgid "Bulgaria (+359)"
+msgstr ""
+
+#: simple-contact-button.php:316
+msgid "Burkina Faso (+226)"
+msgstr ""
+
+#: simple-contact-button.php:317
+msgid "Burundi (+257)"
+msgstr ""
+
+#: simple-contact-button.php:318
+msgid "Cambodia (+855)"
+msgstr ""
+
+#: simple-contact-button.php:319
+msgid "Cameroon (+237)"
+msgstr ""
+
+#: simple-contact-button.php:320
+msgid "Cape Verde (+238)"
+msgstr ""
+
+#: simple-contact-button.php:321
+msgid "Central African Republic (+236)"
+msgstr ""
+
+#: simple-contact-button.php:322
+msgid "Chad (+235)"
+msgstr ""
+
+#: simple-contact-button.php:323
+msgid "Chile (+56)"
+msgstr ""
+
+#: simple-contact-button.php:324
+msgid "Colombia (+57)"
+msgstr ""
+
+#: simple-contact-button.php:325
+msgid "Comoros (+269)"
+msgstr ""
+
+#: simple-contact-button.php:326
+msgid "Democratic Republic of the Congo (+243)"
+msgstr ""
+
+#: simple-contact-button.php:327
+msgid "Republic of the Congo (+242)"
+msgstr ""
+
+#: simple-contact-button.php:328
+msgid "Costa Rica (+506)"
+msgstr ""
+
+#: simple-contact-button.php:329
+msgid "Croatia (+385)"
+msgstr ""
+
+#: simple-contact-button.php:330
+msgid "Cuba (+53)"
+msgstr ""
+
+#: simple-contact-button.php:331
+msgid "Cyprus (+357)"
+msgstr ""
+
+#: simple-contact-button.php:332
+msgid "Czech Republic (+420)"
+msgstr ""
+
+#: simple-contact-button.php:333
+msgid "Denmark (+45)"
+msgstr ""
+
+#: simple-contact-button.php:334
+msgid "Djibouti (+253)"
+msgstr ""
+
+#: simple-contact-button.php:335
+msgid "East Timor (+670)"
+msgstr ""
+
+#: simple-contact-button.php:336
+msgid "Ecuador (+593)"
+msgstr ""
+
+#: simple-contact-button.php:337
+msgid "El Salvador (+503)"
+msgstr ""
+
+#: simple-contact-button.php:338
+msgid "Equatorial Guinea (+240)"
+msgstr ""
+
+#: simple-contact-button.php:339
+msgid "Eritrea (+291)"
+msgstr ""
+
+#: simple-contact-button.php:340
+msgid "Estonia (+372)"
+msgstr ""
+
+#: simple-contact-button.php:341
+msgid "Eswatini (+268)"
+msgstr ""
+
+#: simple-contact-button.php:342
+msgid "Ethiopia (+251)"
+msgstr ""
+
+#: simple-contact-button.php:343
+msgid "Fiji (+679)"
+msgstr ""
+
+#: simple-contact-button.php:344
+msgid "Gabon (+241)"
+msgstr ""
+
+#: simple-contact-button.php:345
+msgid "Gambia (+220)"
+msgstr ""
+
+#: simple-contact-button.php:346
+msgid "Georgia (+995)"
+msgstr ""
+
+#: simple-contact-button.php:347
+msgid "Ghana (+233)"
+msgstr ""
+
+#: simple-contact-button.php:348
+msgid "Greece (+30)"
+msgstr ""
+
+#: simple-contact-button.php:349
+msgid "Guatemala (+502)"
+msgstr ""
+
+#: simple-contact-button.php:350
+msgid "Guinea (+224)"
+msgstr ""
+
+#: simple-contact-button.php:351
+msgid "Guinea-Bissau (+245)"
+msgstr ""
+
+#: simple-contact-button.php:352
+msgid "Guyana (+592)"
+msgstr ""
+
+#: simple-contact-button.php:353
+msgid "Haiti (+509)"
+msgstr ""
+
+#: simple-contact-button.php:354
+msgid "Honduras (+504)"
+msgstr ""
+
+#: simple-contact-button.php:355
+msgid "Hungary (+36)"
+msgstr ""
+
+#: simple-contact-button.php:356
+msgid "Iceland (+354)"
+msgstr ""
+
+#: simple-contact-button.php:357
+msgid "Iran (+98)"
+msgstr ""
+
+#: simple-contact-button.php:358
+msgid "Iraq (+964)"
+msgstr ""
+
+#: simple-contact-button.php:359
+msgid "Ireland (+353)"
+msgstr ""
+
+#: simple-contact-button.php:360
+msgid "Israel (+972)"
+msgstr ""
+
+#: simple-contact-button.php:361
+msgid "Ivory Coast (Côte d'Ivoire) (+225)"
+msgstr ""
+
+#: simple-contact-button.php:362
+msgid "Jordan (+962)"
+msgstr ""
+
+#: simple-contact-button.php:363
+msgid "Kazakhstan (+7)"
+msgstr ""
+
+#: simple-contact-button.php:364
+msgid "Kenya (+254)"
+msgstr ""
+
+#: simple-contact-button.php:365
+msgid "Kiribati (+686)"
+msgstr ""
+
+#: simple-contact-button.php:366
+msgid "Kuwait (+965)"
+msgstr ""
+
+#: simple-contact-button.php:367
+msgid "Kyrgyzstan (+996)"
+msgstr ""
+
+#: simple-contact-button.php:368
+msgid "Laos (+856)"
+msgstr ""
+
+#: simple-contact-button.php:369
+msgid "Latvia (+371)"
+msgstr ""
+
+#: simple-contact-button.php:370
+msgid "Lebanon (+961)"
+msgstr ""
+
+#: simple-contact-button.php:371
+msgid "Lesotho (+266)"
+msgstr ""
+
+#: simple-contact-button.php:372
+msgid "Liberia (+231)"
+msgstr ""
+
+#: simple-contact-button.php:373
+msgid "Libya (+218)"
+msgstr ""
+
+#: simple-contact-button.php:374
+msgid "Liechtenstein (+423)"
+msgstr ""
+
+#: simple-contact-button.php:375
+msgid "Lithuania (+370)"
+msgstr ""
+
+#: simple-contact-button.php:376
+msgid "Luxembourg (+352)"
+msgstr ""
+
+#: simple-contact-button.php:377
+msgid "Madagascar (+261)"
+msgstr ""
+
+#: simple-contact-button.php:378
+msgid "Malawi (+265)"
+msgstr ""
+
+#: simple-contact-button.php:379
+msgid "Maldives (+960)"
+msgstr ""
+
+#: simple-contact-button.php:380
+msgid "Mali (+223)"
+msgstr ""
+
+#: simple-contact-button.php:381
+msgid "Malta (+356)"
+msgstr ""
+
+#: simple-contact-button.php:382
+msgid "Marshall Islands (+692)"
+msgstr ""
+
+#: simple-contact-button.php:383
+msgid "Mauritania (+222)"
+msgstr ""
+
+#: simple-contact-button.php:384
+msgid "Mauritius (+230)"
+msgstr ""
+
+#: simple-contact-button.php:385
+msgid "Micronesia (+691)"
+msgstr ""
+
+#: simple-contact-button.php:386
+msgid "Moldova (+373)"
+msgstr ""
+
+#: simple-contact-button.php:387
+msgid "Monaco (+377)"
+msgstr ""
+
+#: simple-contact-button.php:388
+msgid "Mongolia (+976)"
+msgstr ""
+
+#: simple-contact-button.php:389
+msgid "Montenegro (+382)"
+msgstr ""
+
+#: simple-contact-button.php:390
+msgid "Mozambique (+258)"
+msgstr ""
+
+#: simple-contact-button.php:391
+msgid "Myanmar (+95)"
+msgstr ""
+
+#: simple-contact-button.php:392
+msgid "Namibia (+264)"
+msgstr ""
+
+#: simple-contact-button.php:393
+msgid "Nauru (+674)"
+msgstr ""
+
+#: simple-contact-button.php:394
+msgid "Nepal (+977)"
+msgstr ""
+
+#: simple-contact-button.php:395
+msgid "Nicaragua (+505)"
+msgstr ""
+
+#: simple-contact-button.php:396
+msgid "Niger (+227)"
+msgstr ""
+
+#: simple-contact-button.php:397
+msgid "North Korea (+850)"
+msgstr ""
+
+#: simple-contact-button.php:398
+msgid "North Macedonia (+389)"
+msgstr ""
+
+#: simple-contact-button.php:399
+msgid "Norway (+47)"
+msgstr ""
+
+#: simple-contact-button.php:400
+msgid "Oman (+968)"
+msgstr ""
+
+#: simple-contact-button.php:401
+msgid "Pakistan (+92)"
+msgstr ""
+
+#: simple-contact-button.php:402
+msgid "Palau (+680)"
+msgstr ""
+
+#: simple-contact-button.php:403
+msgid "Panama (+507)"
+msgstr ""
+
+#: simple-contact-button.php:404
+msgid "Papua New Guinea (+675)"
+msgstr ""
+
+#: simple-contact-button.php:405
+msgid "Paraguay (+595)"
+msgstr ""
+
+#: simple-contact-button.php:406
+msgid "Peru (+51)"
+msgstr ""
+
+#: simple-contact-button.php:407
+msgid "Philippines (+63)"
+msgstr ""
+
+#: simple-contact-button.php:408
+msgid "Poland (+48)"
+msgstr ""
+
+#: simple-contact-button.php:409
+msgid "Portugal (+351)"
+msgstr ""
+
+#: simple-contact-button.php:410
+msgid "Qatar (+974)"
+msgstr ""
+
+#: simple-contact-button.php:411
+msgid "Romania (+40)"
+msgstr ""
+
+#: simple-contact-button.php:412
+msgid "Rwanda (+250)"
+msgstr ""
+
+#: simple-contact-button.php:413
+msgid "Samoa (+685)"
+msgstr ""
+
+#: simple-contact-button.php:414
+msgid "San Marino (+378)"
+msgstr ""
+
+#: simple-contact-button.php:415
+msgid "Sao Tome and Principe (+239)"
+msgstr ""
+
+#: simple-contact-button.php:416
+msgid "Saudi Arabia (+966)"
+msgstr ""
+
+#: simple-contact-button.php:417
+msgid "Senegal (+221)"
+msgstr ""
+
+#: simple-contact-button.php:418
+msgid "Serbia (+381)"
+msgstr ""
+
+#: simple-contact-button.php:419
+msgid "Seychelles (+248)"
+msgstr ""
+
+#: simple-contact-button.php:420
+msgid "Sierra Leone (+232)"
+msgstr ""
+
+#: simple-contact-button.php:421
+msgid "Slovakia (+421)"
+msgstr ""
+
+#: simple-contact-button.php:422
+msgid "Slovenia (+386)"
+msgstr ""
+
+#: simple-contact-button.php:423
+msgid "Solomon Islands (+677)"
+msgstr ""
+
+#: simple-contact-button.php:424
+msgid "Somalia (+252)"
+msgstr ""
+
+#: simple-contact-button.php:425
+msgid "South Sudan (+211)"
+msgstr ""
+
+#: simple-contact-button.php:426
+msgid "Sri Lanka (+94)"
+msgstr ""
+
+#: simple-contact-button.php:427
+msgid "Sudan (+249)"
+msgstr ""
+
+#: simple-contact-button.php:428
+msgid "Suriname (+597)"
+msgstr ""
+
+#: simple-contact-button.php:429
+msgid "Switzerland (+41)"
+msgstr ""
+
+#: simple-contact-button.php:430
+msgid "Syria (+963)"
+msgstr ""
+
+#: simple-contact-button.php:431
+msgid "Taiwan (+886)"
+msgstr ""
+
+#: simple-contact-button.php:432
+msgid "Tajikistan (+992)"
+msgstr ""
+
+#: simple-contact-button.php:433
+msgid "Tanzania (+255)"
+msgstr ""
+
+#: simple-contact-button.php:434
+msgid "Togo (+228)"
+msgstr ""
+
+#: simple-contact-button.php:435
+msgid "Tonga (+676)"
+msgstr ""
+
+#: simple-contact-button.php:436
+msgid "Tunisia (+216)"
+msgstr ""
+
+#: simple-contact-button.php:437
+msgid "Turkmenistan (+993)"
+msgstr ""
+
+#: simple-contact-button.php:438
+msgid "Tuvalu (+688)"
+msgstr ""
+
+#: simple-contact-button.php:439
+msgid "Uganda (+256)"
+msgstr ""
+
+#: simple-contact-button.php:440
+msgid "Ukraine (+380)"
+msgstr ""
+
+#: simple-contact-button.php:441
+msgid "Uruguay (+598)"
+msgstr ""
+
+#: simple-contact-button.php:442
+msgid "Uzbekistan (+998)"
+msgstr ""
+
+#: simple-contact-button.php:443
+msgid "Vanuatu (+678)"
+msgstr ""
+
+#: simple-contact-button.php:444
+msgid "Vatican City (+379)"
+msgstr ""
+
+#: simple-contact-button.php:445
+msgid "Venezuela (+58)"
+msgstr ""
+
+#: simple-contact-button.php:446
+msgid "Vietnam (+84)"
+msgstr ""
+
+#: simple-contact-button.php:447
+msgid "Yemen (+967)"
+msgstr ""
+
+#: simple-contact-button.php:448
+msgid "Zambia (+260)"
+msgstr ""
+
+#: simple-contact-button.php:449
+msgid "Zimbabwe (+263)"
+msgstr ""
+
+#: simple-contact-button.php:468
+msgid "Right Bottom"
+msgstr ""
+
+#: simple-contact-button.php:469
+msgid "Left Bottom"
+msgstr ""
+
+#: simple-contact-button.php:478
+msgid "Show on Both"
+msgstr ""
+
+#: simple-contact-button.php:479
+msgid "Show on Desktop Only"
+msgstr ""
+
+#: simple-contact-button.php:480
+msgid "Show on Mobile Only"
+msgstr ""
+
+#: simple-contact-button.php:526
+msgid "No posts available"
+msgstr ""
+
+#: simple-contact-button.php:697
+msgid "Error loading posts"
+msgstr ""
